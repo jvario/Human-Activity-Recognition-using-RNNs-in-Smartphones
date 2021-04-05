@@ -1,13 +1,4 @@
-#   ------------------------------Human Activity Recognition using Deep Recurrent Neural Networks on Motion Capture Data------------------------------
-#                    ----------har-smartphone/TrainTheModel----------
-#                              Name: Giannis
-#                              Surname: Variozidis
-#                              Email: cs141065@uniwa.gr
-#                              ID: cs141065
-#   ---------------------------------------------------------------------------
 
-# https://medium.com/datadriveninvestor/human-activity-recognition-using-cnn-lstm-104eea952daf
-# https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-
 
 """IMPORTS"""
 import matplotlib.pyplot as plt

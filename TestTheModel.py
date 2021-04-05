@@ -1,10 +1,3 @@
-#   ------------------------------Human Activity Recognition using Deep Recurrent Neural Networks on Motion Capture Data------------------------------
-#                    ----------har-smartphone/TestTheModel----------
-#                              Name: Giannis
-#                              Surname: Variozidis
-#                              Email: cs141065@uniwa.gr
-#                              ID: cs141065
-#   ---------------------------------------------------------------------------
 
 
 """IMPORTS"""
