@@ -75,7 +75,7 @@ This project requires **Python 3.7** and the following Python libraries installe
 3. Ensure all libraries are installed using ```pip install <library> --user```
 # III. Project Architecture:
 
-This repository [Human-Activity-Recognition-Using-Smartphones](https://github.com/anas337/Human-Activity-Recognition-Using-Smartphones) includes three main directories and 3 files:
+This repository [Human-Activity-Recognition-Using-Smartphones](https://github.com/anas337/Human-Activity-Recognition-Using-Smartphones) includes 1 main directory and 3 general files:
 
 ### III-1. Directories:
 
