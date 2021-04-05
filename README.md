@@ -93,7 +93,7 @@ This repository [Human-Activity-Recognition-Using-Smartphones](https://github.co
 	- `TestTheModel`:  This file contains the evaluation of the models in the dataset           
 	
 	- `Visualiazation`:  This file contains visualizations and detailed analysis of each step performed.  
-	-         
+	       
 # IV. Results:
 
 
