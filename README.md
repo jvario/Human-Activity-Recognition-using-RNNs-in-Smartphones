@@ -88,11 +88,11 @@ This repository [Human-Activity-Recognition-Using-Smartphones](https://github.co
 		
 ### III-2. Files:
 
-	- `TrainTheModel`: This file contains the signal processing pipeline and the train of the models	
+	- `TrainTheModel.py`: This file contains the signal processing pipeline and the train of the models	
 	
-	- `TestTheModel`:  This file contains the evaluation of the models in the dataset           
+	- `TestTheModel.py`:  This file contains the evaluation of the models in the dataset           
 	
-	- `Visualiazation`:  This file contains visualizations and detailed analysis of each step performed.  
+	- `Visualiazation.py`:  This file contains visualizations and detailed analysis of each step performed.  
 	       
 # IV. Results:
 
