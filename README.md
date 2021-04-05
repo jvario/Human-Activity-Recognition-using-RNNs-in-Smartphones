@@ -95,10 +95,14 @@ This repository [Human-Activity-Recognition-Using-Smartphones](https://github.co
 	- `Visualiazation.py`:  This file contains visualizations and detailed analysis of each step performed.  
 	       
 # IV. Results:
-###The Confussion
-The below table represents the results for each model, whichby testing the evaluation data sets, note that the networks were trained with 7,352 samples and 9 characteristics and evaluated with 2,947 samples
+### Performance Table of Models
+The below table represents the evaluation results for each model, note that the models were trained with 7,352 samples and 9 features and evaluated with 2,947 samples.
 
 ![image](https://user-images.githubusercontent.com/19184453/113598406-c364b900-9645-11eb-8e77-9db32f2e943c.png)
+
+### Confusion Matrix of Models
+
+![image](https://user-images.githubusercontent.com/19184453/113599806-cfea1100-9647-11eb-8c7d-10b83a8e93ae.png)
 
 
 
