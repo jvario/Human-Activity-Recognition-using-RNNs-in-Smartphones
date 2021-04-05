@@ -104,5 +104,6 @@ The below table represents the evaluation results for each model, note that the 
 
 ![image](https://user-images.githubusercontent.com/19184453/113599806-cfea1100-9647-11eb-8c7d-10b83a8e93ae.png)
 
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
