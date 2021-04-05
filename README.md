@@ -69,3 +69,28 @@ This project requires **Python 3.7** and the following Python libraries installe
 - [Python 3.7](https://www.python.org/downloads/) 
 - [NumPy](http://www.numpy.org/)  , [SciPy](https://www.scipy.org/) , [Pandas](https://pandas.pydata.org/) , [matplotlib](http://matplotlib.org/)
 - [Tensorflow](https://www.tensorflow.org), [scikit-learn](http://scikit-learn.org/stable/)
+
+# III. Project Architecture:
+
+This repository [Human-Activity-Recognition-Using-Smartphones](https://github.com/anas337/Human-Activity-Recognition-Using-Smartphones) includes three main directories and 3 files:
+
+### III-1. Directories:
+
+	- `\Results\Testing`: This folder includes evaluation results of predicted models in test dataset
+	
+	- `\Results\Training`: Contains images of training the models
+	
+	- `\Results\Visualization`: Contains images of the visualization of the dataset
+		
+		
+### III-2. Files:
+
+	- `TrainTheModel`: This file contains the signal processing 
+	                                              pipeline and the train of the models	
+	
+	- `TestTheModel`:  This file contains the evaluation of the models in the dataset           
+	
+	
+	- `Visualiazation`:  This file contains visualizations and detailed analysis of each step 
+						      performed.          
+
